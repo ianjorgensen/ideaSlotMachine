@@ -1,0 +1,2 @@
+# ideaSlotMachine
+ideaSlotMachine
